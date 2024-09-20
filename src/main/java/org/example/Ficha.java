@@ -5,6 +5,6 @@ public class Ficha {
     public int countFich;
     public Ficha(){
         count = 12;
-        countFich = 65;
+        countFich = 25;
     }
 }
