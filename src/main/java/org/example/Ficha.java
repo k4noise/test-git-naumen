@@ -1,8 +1,8 @@
 package org.example;
 
 public class Ficha {
-    public int countFich;
+    public int count;
     public Ficha(){
-        countFich = 2;
+        count = 12;
     }
 }
