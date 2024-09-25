@@ -5,6 +5,8 @@ public class Ficha {
     public String NameFich;
 
     public Ficha(){
+
         countFich = 14;
+        NameFich = "Del";
     }
 }
