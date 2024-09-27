@@ -1,11 +1,11 @@
 package org.example;
 
 public class Ficha {
-    public int countFich;
+    public int FichCount;
     public String NameFich2;
 
     public Ficha(){
-        countFich = 14;
+        FichCount = 14;
         NameFich2 = "Del3";
     }
 }
