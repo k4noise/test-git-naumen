@@ -1,12 +1,12 @@
 package org.example;
 
 public class Ficha {
-    public int countFich;
+    public int countFich15;
     public String NameFich2;
 
     public Ficha(){
 
-        countFich = 14;
+        countFich15 = 14;
         NameFich2 = "Del";
     }
 }
