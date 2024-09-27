@@ -5,8 +5,7 @@ public class Ficha {
     public String NameFich2;
 
     public Ficha(){
-
         countFich = 14;
-        NameFich2 = "Del";
+        NameFich2 = "Del3";
     }
 }
