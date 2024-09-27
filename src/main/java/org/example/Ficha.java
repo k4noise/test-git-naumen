@@ -6,6 +6,6 @@ public class Ficha {
 
     public Ficha(){
         FichCount = 14;
-        NameFich2 = "Del3";
+        NameFich2 = "Del333";
     }
 }
